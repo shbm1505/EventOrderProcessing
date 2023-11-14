@@ -1,4 +1,0 @@
-[
-  {"correlation_id": "1234", "order": ["Q", "P", "R"]},
-  {"correlation_id": "4545", "order": ["Y", "H", "G"]}
-]

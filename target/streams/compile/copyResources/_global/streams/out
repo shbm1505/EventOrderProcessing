@@ -1,4 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/shubham/IdeaProjects/EventOrderingProcessor/src/main/resources/logback.xml,/Users/shubham/IdeaProjects/EventOrderingProcessor/target/scala-2.12/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/shubham/IdeaProjects/EventOrderingProcessor/src/main/resources/event_order.json,/Users/shubham/IdeaProjects/EventOrderingProcessor/target/scala-2.12/classes/event_order.json)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/shubham/IdeaProjects/EventOrderingProcessor/src/main/resources/application.properties,/Users/shubham/IdeaProjects/EventOrderingProcessor/target/scala-2.12/classes/application.properties)[0m

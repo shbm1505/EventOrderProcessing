@@ -6,10 +6,7 @@ lazy val root = (project in file("."))
   .settings(
     name := "EventOrderingProcessor",
     libraryDependencies ++= Seq(
-      "org.apache.spark" %% "spark-core" % "3.2.0" exclude("org.scala-lang.modules", "scala-xml_2.12"),
-      "org.apache.spark" %% "spark-sql" % "3.2.0" exclude("org.scala-lang.modules", "scala-xml_2.12"),
       "com.typesafe" % "config" % "1.4.1",
-      "org.apache.spark" %% "spark-sql-kafka-0-10" % "3.2.0" exclude("org.scala-lang.modules", "scala-xml_2.12"),
       "ch.qos.logback" % "logback-classic" % "1.2.3",
       "org.apache.flink" %% "flink-streaming-scala" % "1.14.0" exclude("org.scala-lang.modules", "scala-xml_2.12"),
       "org.apache.flink" %% "flink-scala" % "1.14.0" exclude("org.scala-lang.modules", "scala-xml_2.12"),
